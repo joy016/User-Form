@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/joy016/User-form.git/static/css/main.3f4de444.css",
-    "main.js": "/joy016/User-form.git/static/js/main.3881bff0.js",
-    "static/js/787.f2b42d3a.chunk.js": "/joy016/User-form.git/static/js/787.f2b42d3a.chunk.js",
-    "index.html": "/joy016/User-form.git/index.html",
-    "main.3f4de444.css.map": "/joy016/User-form.git/static/css/main.3f4de444.css.map",
-    "main.3881bff0.js.map": "/joy016/User-form.git/static/js/main.3881bff0.js.map",
-    "787.f2b42d3a.chunk.js.map": "/joy016/User-form.git/static/js/787.f2b42d3a.chunk.js.map"
+    "main.css": "/User-form/static/css/main.3f4de444.css",
+    "main.js": "/User-form/static/js/main.3c5d03b6.js",
+    "static/js/787.f2b42d3a.chunk.js": "/User-form/static/js/787.f2b42d3a.chunk.js",
+    "index.html": "/User-form/index.html",
+    "main.3f4de444.css.map": "/User-form/static/css/main.3f4de444.css.map",
+    "main.3c5d03b6.js.map": "/User-form/static/js/main.3c5d03b6.js.map",
+    "787.f2b42d3a.chunk.js.map": "/User-form/static/js/787.f2b42d3a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3f4de444.css",
-    "static/js/main.3881bff0.js"
+    "static/js/main.3c5d03b6.js"
   ]
 }
